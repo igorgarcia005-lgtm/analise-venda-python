@@ -6,10 +6,10 @@ feita com Python e pandas a fim de exercitar exemplos reais
 ## O que o projeto faz
 - extrai dados de uma tabela excel
 - trata e limpa os dados
-- Responde perguntas de negocio.quem e o maios cliente qual cidade mais vendeu
+- Responde perguntas de negocio.quem e o maior cliente qual cidade mais vendeu
 
 ## Tecnologias
-Python, pandas, Jupyter Notebook,openpyxlx
+Python, pandas, Jupyter Notebook,openpyxl
 
 ## Como rodar
 1. Clone o repositório
