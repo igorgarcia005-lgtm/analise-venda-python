@@ -17,9 +17,17 @@ Python, pandas, Jupyter Notebook,openpyxl
 3. Abra o notebook no Jupyter ou no VS Code
 
 ## Principais resultados
-O ticket médio das compras é alto (R$ 1.244,81). As categorias de Eletrônicos (R$ 315,9 mil) e Informática (R$ 225,3 mil) respondem juntas por quase 80% do faturamento total (R$ 541,2 mil).
-Em vendas individuais por cidade, o topo é liderado por Rio de Janeiro (68), Curitiba (59) e João Pessoa (51). Contudo, o Nordeste como bloco regional soma 208 vendas (somando João Pessoa, Aracaju, Natal, Recife e Maceió).
-A média de idade do nosso cliente é de 46,3 anos. Além disso, o Cliente C0041 comprou sozinho R$ 32.483,78, demonstrando grande concentração de valor em compradores pontuais.
+## Principais resultados
 
-## Autor
+O ticket médio das compras é de R$ 1.248,52, mas a compra típica (mediana) é de R$ 491,53. Isso mostra que poucas compras de valor muito alto puxam a média para cima.
+
+As categorias de Eletrônicos (R$ 315,9 mil) e Informática (R$ 225,3 mil) somam R$ 541,2 mil, cerca de 73% do faturamento total (aproximadamente R$ 745 mil).
+
+Em vendas individuais por cidade, o topo é liderado por Rio de Janeiro (68), Curitiba (59) e João Pessoa (51). Porém, o Nordeste como bloco regional soma 208 vendas (João Pessoa, Aracaju, Natal, Recife e Maceió).
+
+A idade média dos clientes é de cerca de 45,9 anos.
+
+O maior cliente, C0041, comprou R$ 32.483,78 no total.
+
+
 Igor - www.linkedin.com/in/igor-garcia-5b04a0186
